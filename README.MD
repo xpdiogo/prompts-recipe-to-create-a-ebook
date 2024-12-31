@@ -13,7 +13,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Imagens  | Crie uma imagem de um jogador de futebol com torcida ao fundo.                                                        |
-| conteúdo | Me conte sobre a história do futebol. |
+| Conteúdo | Me conte sobre a história do futebol. |
 
 
 ## ✨ Features
@@ -22,8 +22,8 @@ ChatGPT：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- Ebook gerado durante as aulas em `output`
+- Imagens utilizadas.
+- Ebook gerado.
 
 ## 🛠️ Instruções de execução
 
